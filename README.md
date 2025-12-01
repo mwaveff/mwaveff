@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nazar Vavryk
+# Hi 👋, I'm Nazar (mwaveff)
 
 ### Passionate programmer
 
