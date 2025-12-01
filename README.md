@@ -20,3 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mwaveff&show_icons=true&locale=en" alt="mwaveff" /></p>
 
+<img src="https://raw.githubusercontent.com/mwaveff/mwaveff/output/snake.svg" alt="Snake animation" />
+
+###
+
