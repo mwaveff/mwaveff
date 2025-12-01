@@ -17,11 +17,10 @@
 
 <br>
 
-![mwaveff's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=mwaveff&show_icons=true&locale=en&layout=compact)
-
-![mwaveff's Stats](https://github-readme-stats.vercel.app/api?username=mwaveff&show_icons=true&locale=en)
-
-![snake animation](https://raw.githubusercontent.com/mwaveff/mwaveff/output/github-contribution-grid-snake.svg)
+### 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mwaveff&show_icons=true&locale=en&layout=compact" alt="mwaveff's Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=mwaveff&show_icons=true&locale=en" alt="mwaveff's GitHub Stats" />
+<img src="https://raw.githubusercontent.com/mwaveff/mwaveff/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 ###
 
