@@ -2,7 +2,7 @@
 
 ### Passionate programmer
 
-- 👨‍💻 My CV website - **[CV](https://mwaveff.github.io/cv/)**
+- 👨‍💻 My CV website - **[CV](https://mwaveff.github.io/CV/)**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://github.com/mwaveff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mwaveff" height="30" width="40" /></a>
